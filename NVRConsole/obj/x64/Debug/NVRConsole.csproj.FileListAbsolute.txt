@@ -1,0 +1,10 @@
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.exe
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.pdb
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRConsole\bin\NVRConsole.exe
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRConsole\bin\NVRConsole.pdb
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRConsole\obj\x64\Debug\NVRCsharpDemo.IPChannelConfig.resources
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRConsole\obj\x64\Debug\NVRCsharpDemo.MainWindow.resources
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRConsole\obj\x64\Debug\NVRConsole.Properties.Resources.resources
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRConsole\obj\x64\Debug\NVRConsole.csproj.GenerateResource.Cache
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRConsole\obj\x64\Debug\NVRConsole.exe
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRConsole\obj\x64\Debug\NVRConsole.pdb

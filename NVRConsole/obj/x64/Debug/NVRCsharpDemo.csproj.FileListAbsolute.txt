@@ -1,0 +1,11 @@
+C:\Users\YuanZhongjie\Desktop\CH-HCNetSDK(Windows64)V5.3.1.22_build20170909\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\bin\NVRCsharpDemo.exe
+C:\Users\YuanZhongjie\Desktop\CH-HCNetSDK(Windows64)V5.3.1.22_build20170909\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\bin\NVRCsharpDemo.pdb
+C:\Users\YuanZhongjie\Desktop\CH-HCNetSDK(Windows64)V5.3.1.22_build20170909\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.csprojResolveAssemblyReference.cache
+C:\Users\YuanZhongjie\Desktop\CH-HCNetSDK(Windows64)V5.3.1.22_build20170909\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.IPChannelConfig.resources
+C:\Users\YuanZhongjie\Desktop\CH-HCNetSDK(Windows64)V5.3.1.22_build20170909\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.MainWindow.resources
+C:\Users\YuanZhongjie\Desktop\CH-HCNetSDK(Windows64)V5.3.1.22_build20170909\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.Properties.Resources.resources
+C:\Users\YuanZhongjie\Desktop\CH-HCNetSDK(Windows64)V5.3.1.22_build20170909\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.csproj.GenerateResource.Cache
+C:\Users\YuanZhongjie\Desktop\CH-HCNetSDK(Windows64)V5.3.1.22_build20170909\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.exe
+C:\Users\YuanZhongjie\Desktop\CH-HCNetSDK(Windows64)V5.3.1.22_build20170909\Demo示例\3- C# 开发示例\2-实时预览示例代码二\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.pdb
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.exe
+C:\Users\YuanZhongjie\Desktop\workspace\NVRConsole\NVRCsharpDemo\obj\x64\Debug\NVRCsharpDemo.pdb
